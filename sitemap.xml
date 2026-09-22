@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sehapps.github.io/dd-budget/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sehapps.github.io/dd-budget/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sehapps.github.io/dd-budget/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sehapps.github.io/dd-budget/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sehapps.github.io/dd-budget/"/>
+  </url>
+  <url>
+    <loc>https://sehapps.github.io/dd-budget/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sehapps.github.io/dd-budget/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sehapps.github.io/dd-budget/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sehapps.github.io/dd-budget/de/"/>
+  </url>
+  <url>
+    <loc>https://sehapps.github.io/dd-budget/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://sehapps.github.io/dd-budget/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://sehapps.github.io/dd-budget/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://sehapps.github.io/dd-budget/de/"/>
+  </url>
+  <url><loc>https://sehapps.github.io/dd-budget/privacy-en.html</loc></url>
+  <url><loc>https://sehapps.github.io/dd-budget/privacy-tr.html</loc></url>
+  <url><loc>https://sehapps.github.io/dd-budget/terms-en.html</loc></url>
+  <url><loc>https://sehapps.github.io/dd-budget/terms-tr.html</loc></url>
+</urlset>
