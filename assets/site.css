@@ -154,3 +154,10 @@ footer a:hover { text-decoration: underline; }
 .facts dt { font-weight: 600; color: var(--fg); }
 .facts dd { margin: 0 0 10px; }
 .facts dd:last-child { margin-bottom: 0; }
+
+/* resmî Google Play rozeti — Google'ın marka kuralları gereği
+   değiştirilmez, min 40px yükseklik ve etrafında boşluk gerekir */
+.badge { display: inline-block; line-height: 0; }
+.badge img { height: 56px; width: auto; display: block; }
+.badge:hover { opacity: .88; }
+@media (max-width: 820px) { .badge img { height: 50px; } }
